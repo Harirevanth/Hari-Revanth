@@ -1,4 +1,4 @@
-# Hari-Revanth
+# HariRevanth
 About me
 # 👋 Hi, I'm Hari Revanth S
 
