@@ -50,12 +50,5 @@ I love building real-time projects to enhance my testing skills and share them o
 
 ---
 
-## 📌 What I’m Looking For
-
-🎯 I'm actively seeking a **Manual / Automation Testing role** where I can apply my skills, grow with a great team, and contribute to building quality software.
-
-If you're hiring or know someone who is, feel free to connect!
-
----
 
 🧪 _“Great testers break things with a purpose – and fix them with precision.”_  
